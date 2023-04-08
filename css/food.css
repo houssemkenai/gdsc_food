@@ -1,0 +1,122 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+  
+/* Rectangle 1 */
+.rectangle1{
+
+    background: #100105; 
+    width: 75%;
+    float: left;
+    height: 894px;
+    
+
+}
+.button{
+    position: absolute;
+    top: 80%;
+    right:39% ;
+    bottom:14% ;
+    left: 26%;
+    text-align: center;
+    text-decoration: none;
+    width: 205px;
+    height: 59px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0%;
+    background: #465E1B;
+    color: #FFFFFF;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+    
+/* identical to box height, or 0px */
+
+
+
+}
+
+p{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 174%;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+}
+
+ /* Rectangle 2 */
+.rectangle2{
+
+ background: #465E1B;
+ width: 25%;
+ float: right;
+ height: 894px;
+ 
+
+}
+.img{
+ 
+  position: absolute;
+  left: 60.03%;
+  right: 13.18%;
+  top: 19%;
+  bottom: 21%;
+  height: auto;
+    
+}
+
+.fa-instagram{
+    color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+
+}
+
+.fa-facebook{
+    color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+}
+
+.fa-linkedin-in{
+    color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+}  
+
+.fa-twitter{
+    color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+}
+.logo{
+    position: absolute;
+    left: 12%;
+    top: 6.3%;
+    right: 72%;
+    bottom: 56%;
+}
+
+.text{
+    position: absolute;
+    left: 9%;
+    top: 32% ;
+    bottom: 22%;
+    right: 52%;
+}
